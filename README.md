@@ -74,7 +74,7 @@ we used google colab to run our yolov5 model to run it with gpu
 
 
 
-<img src="Lion Tiger and Leopard.jpg" alt="Lion Tiger and Leopard" width="500" height="600"/>
+<img src="output images/Lion Tiger and Leopard.jpg" alt="Lion Tiger and Leopard" width="500" height="600"/>
 
 <!-- LICENSE -->
 ## License
